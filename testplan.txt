@@ -1,3 +1,5 @@
 Overview:
 purpose:
 Strategy
+test cases
+resources
